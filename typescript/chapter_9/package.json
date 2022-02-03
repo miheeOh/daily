@@ -1,0 +1,22 @@
+{
+  "name": "chapter_9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"serve",
+    "compileDeploy":"tsc && npm run deploy",
+    "deploy":"copyfiles -f src/browser/*.html src/browser/*.css dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.10",
+    "copyfiles": "^2.4.1",
+    "serve": "^13.0.2",
+    "typescript": "^4.5.4"
+  },
+  "type":"module"
+}

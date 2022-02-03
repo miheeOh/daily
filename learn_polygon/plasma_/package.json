@@ -1,0 +1,23 @@
+{
+  "name": "plasma_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.2.0",
+    "@maticnetwork/meta": "^2.4.29",
+    "@truffle/hdwallet-provider": "^2.0.1",
+    "bignumber.js": "^9.0.2",
+    "bn.js": "^5.2.0",
+    "create-react-app": "^5.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^14.3.2"
+  }
+}

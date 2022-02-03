@@ -1,0 +1,25 @@
+{
+  "name": "test_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.2.0",
+    "@truffle/hdwallet-provider": "^2.0.1",
+    "bignumber.js": "^9.0.2",
+    "bn.js": "^5.2.0",
+    "dotenv": "^14.2.0"
+  },
+  "devDependencies": {
+
+  },
+  "type":"commonjs"
+
+}
