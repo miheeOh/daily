@@ -3,5 +3,4 @@ node_modules
 .env
 .secret
 secret
-launch.html
-main.js
+truffle-config.js
