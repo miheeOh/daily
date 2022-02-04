@@ -1,0 +1,21 @@
+{
+  "name": "plasma_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "nodemon": "^2.0.15",
+    "solc": "^0.8.11",
+    "truffle": "^5.4.32",
+    "web3": "^1.7.0",
+    "web3-eth-accounts": "^1.7.0"
+  }
+}

@@ -1,0 +1,1 @@
+export default provider = "https://ropsten.infura.io/v3/8073669b3863406aa737402c7bd2f291"
